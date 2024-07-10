@@ -5,7 +5,7 @@ line 2 changed remotely
 This is one of my favourite chicken dishes to make. It's quick and easy while providing an exquisite flavours. <br>
 Best served together with hot rice! <br>
 
-Required ingredients
+**Required ingredients**
 1. Chicken breast - 500g
 2. Onion - 1 bulb
 3. Salt

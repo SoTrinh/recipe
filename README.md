@@ -14,5 +14,8 @@ Best served together with hot rice! <br>
 6. Oyster sauce
 7. Dried red chillies
 
+<img src="recipe.jpg" alt="Korean Spicy Garlic Fried Chicken">
+
 ### References
 **Source: Billy Law's cookbook - Little Korea**
+

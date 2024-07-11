@@ -13,6 +13,7 @@ Best served together with hot rice! <br>
 5. Garlic
 6. Oyster sauce
 7. Dried red chillies
+Other ingredients that you may need to customize your dish: challot, tumeric
 
 <img src="recipe.jpg" alt="Korean Spicy Garlic Fried Chicken">
 
